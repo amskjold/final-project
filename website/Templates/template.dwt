@@ -12,12 +12,13 @@
 <!-- TemplateParam name="deformity-sub" type="boolean" value="false" -->
 <!-- TemplateParam name="talent-sub" type="boolean" value="false" -->
 <!-- TemplateParam name="ethnological" type="boolean" value="false" -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 <table>
   <tr>
-    <td>&nbsp;</td>
+    <td><img src="../images/thebanner.jpg" width="1000" height="350" alt="banner" /></td>
   </tr>
   <tr>
     <td><a href="../Talent/index.html">Talent</a>|<a href="../Cosmetic/index.html">Cosmetic</a>|<a href="../Deformity/index.html">Deformity</a><a href="../Abnormal/index.html">|Abnormal</a>|<a href="../Ethnological/index.html">Ethnological</a></td>
@@ -28,11 +29,11 @@
     <td><ul>
       <!-- TemplateBeginIf cond="_document['abnormal-sub']" -->
       <ul>
-        <li><a href="../Abnormal/body.html">Excess Body Parts</a></li>
+        <li><a href="../Abnormal/bodyparts.html">Excess Body Parts</a></li>
         <li><a href="../Abnormal/fat.html">Fat</a></li>
         <li><a href="../Abnormal/skinny.html">Skinny</a></li>
         <li><a href="../Abnormal/gigantic.html">Gigantic </a></li>
-        <li><a href="../Abnormal/dwarf.html">Dwarf</a></li>
+        <li><a href="../Abnormal/dwarves.html">Dwarf</a></li>
       </ul>
       <!-- TemplateEndIf --></ul>
       <!-- TemplateBeginIf cond="ethnological" -->
@@ -41,7 +42,7 @@
         <li><a href="../Ethnological/hottusvenus.html">Hottus Venus</a></li>
         <li><a href="../Ethnological/humanzoo.html">Human Zoo</a></li>
         <li><a href="../Ethnological/madamgustika.html">Madam Gustika</a></li>
-        <li><a href="../Ethnological/maximoandbarloso.html">Maximo and Barloso</a></li></ul><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['talent-sub']" -->
+        <li><a href="../Ethnological/twins.html">Maximo and Barloso</a></li></ul><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['talent-sub']" -->
         <ul>
         <li><a href="../Talent/animaltamers.html">Animal Tammer </a></li>
         <li><a href="../Talent/cannonball.html">Human Cannonball </a></li>
