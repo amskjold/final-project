@@ -21,7 +21,7 @@
     <td><img src="../images/thebanner.jpg" width="1000" height="350" alt="banner" /></td>
   </tr>
   <tr>
-    <td><a href="../Talent/index.html">Talent</a>|<a href="../Cosmetic/index.html">Cosmetic</a>|<a href="../Deformity/index.html">Deformity</a><a href="../Abnormal/index.html">|Abnormal</a>|<a href="../Ethnological/index.html">Ethnological</a></td>
+    <td><a href="../index.html">Home</a>|<a href="../Talent/index.html">Talent</a>|<a href="../Cosmetic/index.html">Cosmetic</a>|<a href="../Deformity/index.html">Deformity</a><a href="../Abnormal/index.html">|Abnormal</a>|<a href="../Ethnological/index.html">Ethnological</a></td>
   </tr>
 </table>
 <table>
@@ -38,11 +38,11 @@
       <!-- TemplateEndIf --></ul>
       <!-- TemplateBeginIf cond="ethnological" -->
       <ul>
-        <li><a href="../Ethnological/africanqueen.html">African Queen</a></li>
+        <li><a href="../Ethnological/maximo.html">Maximo and Bartola</a></li>
         <li><a href="../Ethnological/hottusvenus.html">Hottus Venus</a></li>
         <li><a href="../Ethnological/humanzoo.html">Human Zoo</a></li>
         <li><a href="../Ethnological/madamgustika.html">Madam Gustika</a></li>
-        <li><a href="../Ethnological/twins.html">Maximo and Barloso</a></li></ul><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['talent-sub']" -->
+        <li><a href="../Ethnological/millie.html">Millie-Christine</a></li></ul><!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['talent-sub']" -->
         <ul>
         <li><a href="../Talent/animaltamers.html">Animal Tammer </a></li>
         <li><a href="../Talent/cannonball.html">Human Cannonball </a></li>
@@ -61,10 +61,10 @@
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['cosmetic-sub']" -->
     <ul>
       <li><a href="../Cosmetic/albino.html">Albino</a></li>
-      <li><a href="../Cosmetic/bearded.html">Bearded</a></li>
-      <li><a href="../Cosmetic/skin.html">Skin</a></li>
+      <li><a href="../Cosmetic/bearded.html">The Bearded Woman</a></li>
+      <li><a href="../Cosmetic/skin.html">Skin Defomity</a></li>
       <li><a href="../Cosmetic/tattoos.html">Tattoos </a></li>
-      <li><a href="../Cosmetic/werewolf.html">Werewolf</a></li>
+      <li><a href="../Cosmetic/werewolf.html">Werewolf Man</a></li>
     </ul>
     <!-- TemplateEndIf --></td>
     <td> <!-- TemplateBeginEditable name="page-content" -->page-content<!-- TemplateEndEditable --> </td>
