@@ -28,13 +28,12 @@
   <tr>
     <td width="221" class="secondarynav"><ul>
       <!-- TemplateBeginIf cond="_document['abnormal-sub']" -->
-      <blockquote>
+      
         <p><a href="../Abnormal/bodyparts.html">Excess Body Parts</a></p>
         <p><a href="../Abnormal/fat.html">Fat Men and Women</a></p>
         <p><a href="../Abnormal/skinny.html">Skinny</a></p>
         <p><a href="../Abnormal/gigantic.html">Gigantic </a></p>
-        <p><a href="../Abnormal/dwarves.html">Dwarves</a></p>
-      </blockquote>
+        <p><a href="../Abnormal/dwarves.html">Dwarves</a></p>  
       <!-- TemplateEndIf -->
     </ul>
       <!-- TemplateBeginIf cond="ethnological" -->

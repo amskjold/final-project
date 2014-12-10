@@ -1,15 +1,15 @@
 body {
-	font-family: "Times New Roman", Times, serif;
+	font-family: Garamond;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
-	color: #333;
-	background-color: #936;
+	color: #333333;
+	background-color: #603;
 }
 p {
 }
-table { 
+table {
 	background-color: #FFF;
 	border-collapse: collapse;
 }
@@ -24,8 +24,8 @@ td {
 	margin: 20px;
 }
 .primarynav {
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 24px;
+	font-family: Garamond;
+	font-size: 33px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: bold;
@@ -40,4 +40,5 @@ td {
 }
 .secondarynav {
 	float: left;
+	font-family: Garamond;
 }
